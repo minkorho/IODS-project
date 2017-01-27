@@ -1,0 +1,9 @@
+---
+title: "ReadMe"
+author: "Minna Korhonen"
+date: "28 tammikuuta 2017"
+output: html_document
+---
+R is fascinating. 
+
+Link to my course diary: https://minkorho.github.io/IODS-project/
